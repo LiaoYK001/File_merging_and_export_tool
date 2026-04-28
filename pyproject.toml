@@ -1,7 +1,10 @@
 [project]
 name = "file-merging-and-export-tool"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tkinter GUI tool for merging and exporting mixed text and binary files"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+	"pyinstaller>=6.20.0",
+	"tkinterdnd2>=0.4.3",
+]
