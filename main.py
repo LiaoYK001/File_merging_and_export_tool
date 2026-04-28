@@ -1,5 +1,4 @@
-def main():
-    print("Hello from file-merging-and-export-tool!")
+from File_merging_and_export_tool import main
 
 
 if __name__ == "__main__":
